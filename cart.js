@@ -1,4 +1,4 @@
-// Carrito de compras
+// Carrito de compras.
 
 // ver total del carrito
 // agregar producto
