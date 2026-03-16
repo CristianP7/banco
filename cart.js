@@ -29,7 +29,7 @@ function carrito(total){
     }
 
     verTotal();
-    agregarProducto(20);
+    agregarProducto(30);
     agregarProducto(15);
     eliminarProducto(10);
 }
